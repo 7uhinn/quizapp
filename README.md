@@ -1,2 +1,3 @@
 # quizapp
-My first Flutter App
+
+A new Flutter project.
